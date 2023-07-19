@@ -1,0 +1,38 @@
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.deps.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.runtimeconfig.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili_Arama___2021512001.Form1.resources
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.GenerateResource.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\refint\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\ref\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\İkili Arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.ResolveComReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.exe
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.deps.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.runtimeconfig.json
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\bin\Debug\net6.0-windows\İkili Arama - 2021512001.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.AssemblyReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\Interop.VBIDE.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.ResolveComReference.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili_Arama___2021512001.Form1.resources
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.GenerateResource.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.AssemblyInfoInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.AssemblyInfo.cs
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.csproj.CoreCompileInputs.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\refint\İkili Arama - 2021512001.dll
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.pdb
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\İkili Arama - 2021512001.genruntimeconfig.cache
+C:\Users\tamer\OneDrive\Masaüstü\Personal\Software\C#\ikili arama - 2021512001\obj\Debug\net6.0-windows\ref\İkili Arama - 2021512001.dll
